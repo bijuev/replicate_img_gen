@@ -20,7 +20,7 @@ Create and activate a virtual environment, then install the required packages:
 
 python3 -m venv venv
 source venv/bin/activate  # For Linux/macOS
-## Or for Windows
+Or for Windows
 venv\Scripts\activate
 pip install -r requirements.txt
 
