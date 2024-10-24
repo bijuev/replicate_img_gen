@@ -1,5 +1,5 @@
 ## Image Generation and Conversion API
-This FastAPI application provides an API to generate images using the Replicate API, and then download or convert the resulting image data into image files.
+This FastAPI application provides an API to generate images using the Replicate API, based on the text promt Replicate API generate the image, that can be saved to image files.
 
 ## Features
 Generate images based on a prompt using the Stable Diffusion model from Replicate.
