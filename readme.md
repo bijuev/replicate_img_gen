@@ -26,12 +26,12 @@ pip install -r requirements.txt
 
 ## Required packages:
 
-fastapi
-uvicorn
-pydantic
-pydantic-settings
-python-dotenv
-replicate
+fastapi,
+uvicorn,
+pydantic,
+pydantic-settings,
+python-dotenv,
+replicate,
 
 ## Configure Environment Variables
 Create a .env file in the root directory and add your Replicate API token:
